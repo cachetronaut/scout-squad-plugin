@@ -9,6 +9,7 @@
   "homepage": "https://scoutsquad.app/",
   "repository": "https://github.com/cachetronaut/scout-squad-plugin",
   "license": "MIT",
+  "logo": "assets/logo.png",
   "keywords": [
     "fantasy-football",
     "sleeper",
