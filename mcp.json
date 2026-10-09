@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "scout-squad": {
+      "type": "http",
+      "url": "https://scout-squad-production.fastapicloud.dev/mcp"
+    }
+  }
+}

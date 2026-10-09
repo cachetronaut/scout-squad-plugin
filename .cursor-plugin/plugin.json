@@ -1,0 +1,23 @@
+{
+  "name": "scout-squad",
+  "displayName": "Scout Squad",
+  "version": "1.0.0",
+  "description": "Fantasy football scouting for Sleeper leagues. Search players, connect a league, and check waiver, start/sit, and trade decisions.",
+  "author": {
+    "name": "Cachetronaut"
+  },
+  "homepage": "https://scoutsquad.app/",
+  "repository": "https://github.com/cachetronaut/scout-squad-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "fantasy-football",
+    "sleeper",
+    "scouting",
+    "waivers",
+    "nfl",
+    "mcp"
+  ],
+  "category": "integrations",
+  "mcpServers": "./mcp.json"
+}
